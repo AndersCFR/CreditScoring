@@ -9,70 +9,70 @@ digraph g {
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		2
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		3
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		4
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		5
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		6
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		7
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		8
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		9
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 		10
 		label="ANN_Simple_Architecture
 
 
 
-Input Layer (+7)"
+Input Layer (+6)"
 		rank=same
 	}
 	1 -> 11
@@ -178,7 +178,7 @@ Input Layer (+7)"
 	subgraph cluster_1 {
 		color=white
 		rank=same
-		label=" (+7)" labeljust=right labelloc=b
+		label=" (+6)" labeljust=right labelloc=b
 		11 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		12 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		13 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]

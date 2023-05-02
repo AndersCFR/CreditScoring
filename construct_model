@@ -270,30 +270,10 @@ Input Layer (+6)"
 	18 -> 28
 	19 -> 28
 	20 -> 28
-	11 -> 29
-	12 -> 29
-	13 -> 29
-	14 -> 29
-	15 -> 29
-	16 -> 29
-	17 -> 29
-	18 -> 29
-	19 -> 29
-	20 -> 29
-	11 -> 30
-	12 -> 30
-	13 -> 30
-	14 -> 30
-	15 -> 30
-	16 -> 30
-	17 -> 30
-	18 -> 30
-	19 -> 30
-	20 -> 30
 	subgraph cluster_2 {
 		color=white
 		rank=same
-		label=" (+8)" labeljust=right labelloc=b
+		label="" labeljust=right labelloc=b
 		21 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		22 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		23 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
@@ -302,9 +282,23 @@ Input Layer (+6)"
 		26 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		27 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		28 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
-		29 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
-		30 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 	}
+	21 -> 29
+	22 -> 29
+	23 -> 29
+	24 -> 29
+	25 -> 29
+	26 -> 29
+	27 -> 29
+	28 -> 29
+	21 -> 30
+	22 -> 30
+	23 -> 30
+	24 -> 30
+	25 -> 30
+	26 -> 30
+	27 -> 30
+	28 -> 30
 	21 -> 31
 	22 -> 31
 	23 -> 31
@@ -313,8 +307,6 @@ Input Layer (+6)"
 	26 -> 31
 	27 -> 31
 	28 -> 31
-	29 -> 31
-	30 -> 31
 	21 -> 32
 	22 -> 32
 	23 -> 32
@@ -323,8 +315,6 @@ Input Layer (+6)"
 	26 -> 32
 	27 -> 32
 	28 -> 32
-	29 -> 32
-	30 -> 32
 	21 -> 33
 	22 -> 33
 	23 -> 33
@@ -333,8 +323,6 @@ Input Layer (+6)"
 	26 -> 33
 	27 -> 33
 	28 -> 33
-	29 -> 33
-	30 -> 33
 	21 -> 34
 	22 -> 34
 	23 -> 34
@@ -343,8 +331,6 @@ Input Layer (+6)"
 	26 -> 34
 	27 -> 34
 	28 -> 34
-	29 -> 34
-	30 -> 34
 	21 -> 35
 	22 -> 35
 	23 -> 35
@@ -353,8 +339,6 @@ Input Layer (+6)"
 	26 -> 35
 	27 -> 35
 	28 -> 35
-	29 -> 35
-	30 -> 35
 	21 -> 36
 	22 -> 36
 	23 -> 36
@@ -363,8 +347,6 @@ Input Layer (+6)"
 	26 -> 36
 	27 -> 36
 	28 -> 36
-	29 -> 36
-	30 -> 36
 	21 -> 37
 	22 -> 37
 	23 -> 37
@@ -373,8 +355,6 @@ Input Layer (+6)"
 	26 -> 37
 	27 -> 37
 	28 -> 37
-	29 -> 37
-	30 -> 37
 	21 -> 38
 	22 -> 38
 	23 -> 38
@@ -383,32 +363,12 @@ Input Layer (+6)"
 	26 -> 38
 	27 -> 38
 	28 -> 38
-	29 -> 38
-	30 -> 38
-	21 -> 39
-	22 -> 39
-	23 -> 39
-	24 -> 39
-	25 -> 39
-	26 -> 39
-	27 -> 39
-	28 -> 39
-	29 -> 39
-	30 -> 39
-	21 -> 40
-	22 -> 40
-	23 -> 40
-	24 -> 40
-	25 -> 40
-	26 -> 40
-	27 -> 40
-	28 -> 40
-	29 -> 40
-	30 -> 40
 	subgraph cluster_3 {
 		color=white
 		rank=same
-		label=" (+8)" labeljust=right labelloc=b
+		label=" (+6)" labeljust=right labelloc=b
+		29 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		30 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		31 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		32 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		33 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
@@ -417,9 +377,29 @@ Input Layer (+6)"
 		36 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		37 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 		38 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
-		39 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
-		40 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
 	}
+	29 -> 39
+	30 -> 39
+	31 -> 39
+	32 -> 39
+	33 -> 39
+	34 -> 39
+	35 -> 39
+	36 -> 39
+	37 -> 39
+	38 -> 39
+	29 -> 40
+	30 -> 40
+	31 -> 40
+	32 -> 40
+	33 -> 40
+	34 -> 40
+	35 -> 40
+	36 -> 40
+	37 -> 40
+	38 -> 40
+	29 -> 41
+	30 -> 41
 	31 -> 41
 	32 -> 41
 	33 -> 41
@@ -428,8 +408,8 @@ Input Layer (+6)"
 	36 -> 41
 	37 -> 41
 	38 -> 41
-	39 -> 41
-	40 -> 41
+	29 -> 42
+	30 -> 42
 	31 -> 42
 	32 -> 42
 	33 -> 42
@@ -438,8 +418,8 @@ Input Layer (+6)"
 	36 -> 42
 	37 -> 42
 	38 -> 42
-	39 -> 42
-	40 -> 42
+	29 -> 43
+	30 -> 43
 	31 -> 43
 	32 -> 43
 	33 -> 43
@@ -448,16 +428,520 @@ Input Layer (+6)"
 	36 -> 43
 	37 -> 43
 	38 -> 43
-	39 -> 43
-	40 -> 43
+	29 -> 44
+	30 -> 44
+	31 -> 44
+	32 -> 44
+	33 -> 44
+	34 -> 44
+	35 -> 44
+	36 -> 44
+	37 -> 44
+	38 -> 44
+	29 -> 45
+	30 -> 45
+	31 -> 45
+	32 -> 45
+	33 -> 45
+	34 -> 45
+	35 -> 45
+	36 -> 45
+	37 -> 45
+	38 -> 45
+	29 -> 46
+	30 -> 46
+	31 -> 46
+	32 -> 46
+	33 -> 46
+	34 -> 46
+	35 -> 46
+	36 -> 46
+	37 -> 46
+	38 -> 46
+	29 -> 47
+	30 -> 47
+	31 -> 47
+	32 -> 47
+	33 -> 47
+	34 -> 47
+	35 -> 47
+	36 -> 47
+	37 -> 47
+	38 -> 47
+	29 -> 48
+	30 -> 48
+	31 -> 48
+	32 -> 48
+	33 -> 48
+	34 -> 48
+	35 -> 48
+	36 -> 48
+	37 -> 48
+	38 -> 48
+	subgraph cluster_4 {
+		color=white
+		rank=same
+		label=" (+22)" labeljust=right labelloc=b
+		39 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		40 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		41 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		42 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		43 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		44 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		45 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		46 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		47 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		48 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+	}
+	39 -> 49
+	40 -> 49
+	41 -> 49
+	42 -> 49
+	43 -> 49
+	44 -> 49
+	45 -> 49
+	46 -> 49
+	47 -> 49
+	48 -> 49
+	39 -> 50
+	40 -> 50
+	41 -> 50
+	42 -> 50
+	43 -> 50
+	44 -> 50
+	45 -> 50
+	46 -> 50
+	47 -> 50
+	48 -> 50
+	39 -> 51
+	40 -> 51
+	41 -> 51
+	42 -> 51
+	43 -> 51
+	44 -> 51
+	45 -> 51
+	46 -> 51
+	47 -> 51
+	48 -> 51
+	39 -> 52
+	40 -> 52
+	41 -> 52
+	42 -> 52
+	43 -> 52
+	44 -> 52
+	45 -> 52
+	46 -> 52
+	47 -> 52
+	48 -> 52
+	39 -> 53
+	40 -> 53
+	41 -> 53
+	42 -> 53
+	43 -> 53
+	44 -> 53
+	45 -> 53
+	46 -> 53
+	47 -> 53
+	48 -> 53
+	39 -> 54
+	40 -> 54
+	41 -> 54
+	42 -> 54
+	43 -> 54
+	44 -> 54
+	45 -> 54
+	46 -> 54
+	47 -> 54
+	48 -> 54
+	39 -> 55
+	40 -> 55
+	41 -> 55
+	42 -> 55
+	43 -> 55
+	44 -> 55
+	45 -> 55
+	46 -> 55
+	47 -> 55
+	48 -> 55
+	39 -> 56
+	40 -> 56
+	41 -> 56
+	42 -> 56
+	43 -> 56
+	44 -> 56
+	45 -> 56
+	46 -> 56
+	47 -> 56
+	48 -> 56
+	39 -> 57
+	40 -> 57
+	41 -> 57
+	42 -> 57
+	43 -> 57
+	44 -> 57
+	45 -> 57
+	46 -> 57
+	47 -> 57
+	48 -> 57
+	39 -> 58
+	40 -> 58
+	41 -> 58
+	42 -> 58
+	43 -> 58
+	44 -> 58
+	45 -> 58
+	46 -> 58
+	47 -> 58
+	48 -> 58
+	subgraph cluster_5 {
+		color=white
+		rank=same
+		label=" (+54)" labeljust=right labelloc=b
+		49 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		50 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		51 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		52 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		53 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		54 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		55 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		56 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		57 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		58 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+	}
+	49 -> 59
+	50 -> 59
+	51 -> 59
+	52 -> 59
+	53 -> 59
+	54 -> 59
+	55 -> 59
+	56 -> 59
+	57 -> 59
+	58 -> 59
+	49 -> 60
+	50 -> 60
+	51 -> 60
+	52 -> 60
+	53 -> 60
+	54 -> 60
+	55 -> 60
+	56 -> 60
+	57 -> 60
+	58 -> 60
+	49 -> 61
+	50 -> 61
+	51 -> 61
+	52 -> 61
+	53 -> 61
+	54 -> 61
+	55 -> 61
+	56 -> 61
+	57 -> 61
+	58 -> 61
+	49 -> 62
+	50 -> 62
+	51 -> 62
+	52 -> 62
+	53 -> 62
+	54 -> 62
+	55 -> 62
+	56 -> 62
+	57 -> 62
+	58 -> 62
+	49 -> 63
+	50 -> 63
+	51 -> 63
+	52 -> 63
+	53 -> 63
+	54 -> 63
+	55 -> 63
+	56 -> 63
+	57 -> 63
+	58 -> 63
+	49 -> 64
+	50 -> 64
+	51 -> 64
+	52 -> 64
+	53 -> 64
+	54 -> 64
+	55 -> 64
+	56 -> 64
+	57 -> 64
+	58 -> 64
+	49 -> 65
+	50 -> 65
+	51 -> 65
+	52 -> 65
+	53 -> 65
+	54 -> 65
+	55 -> 65
+	56 -> 65
+	57 -> 65
+	58 -> 65
+	49 -> 66
+	50 -> 66
+	51 -> 66
+	52 -> 66
+	53 -> 66
+	54 -> 66
+	55 -> 66
+	56 -> 66
+	57 -> 66
+	58 -> 66
+	49 -> 67
+	50 -> 67
+	51 -> 67
+	52 -> 67
+	53 -> 67
+	54 -> 67
+	55 -> 67
+	56 -> 67
+	57 -> 67
+	58 -> 67
+	49 -> 68
+	50 -> 68
+	51 -> 68
+	52 -> 68
+	53 -> 68
+	54 -> 68
+	55 -> 68
+	56 -> 68
+	57 -> 68
+	58 -> 68
+	subgraph cluster_6 {
+		color=white
+		rank=same
+		label=" (+118)" labeljust=right labelloc=b
+		59 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		60 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		61 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		62 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		63 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		64 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		65 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		66 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		67 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		68 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+	}
+	59 -> 69
+	60 -> 69
+	61 -> 69
+	62 -> 69
+	63 -> 69
+	64 -> 69
+	65 -> 69
+	66 -> 69
+	67 -> 69
+	68 -> 69
+	59 -> 70
+	60 -> 70
+	61 -> 70
+	62 -> 70
+	63 -> 70
+	64 -> 70
+	65 -> 70
+	66 -> 70
+	67 -> 70
+	68 -> 70
+	59 -> 71
+	60 -> 71
+	61 -> 71
+	62 -> 71
+	63 -> 71
+	64 -> 71
+	65 -> 71
+	66 -> 71
+	67 -> 71
+	68 -> 71
+	59 -> 72
+	60 -> 72
+	61 -> 72
+	62 -> 72
+	63 -> 72
+	64 -> 72
+	65 -> 72
+	66 -> 72
+	67 -> 72
+	68 -> 72
+	59 -> 73
+	60 -> 73
+	61 -> 73
+	62 -> 73
+	63 -> 73
+	64 -> 73
+	65 -> 73
+	66 -> 73
+	67 -> 73
+	68 -> 73
+	59 -> 74
+	60 -> 74
+	61 -> 74
+	62 -> 74
+	63 -> 74
+	64 -> 74
+	65 -> 74
+	66 -> 74
+	67 -> 74
+	68 -> 74
+	59 -> 75
+	60 -> 75
+	61 -> 75
+	62 -> 75
+	63 -> 75
+	64 -> 75
+	65 -> 75
+	66 -> 75
+	67 -> 75
+	68 -> 75
+	59 -> 76
+	60 -> 76
+	61 -> 76
+	62 -> 76
+	63 -> 76
+	64 -> 76
+	65 -> 76
+	66 -> 76
+	67 -> 76
+	68 -> 76
+	59 -> 77
+	60 -> 77
+	61 -> 77
+	62 -> 77
+	63 -> 77
+	64 -> 77
+	65 -> 77
+	66 -> 77
+	67 -> 77
+	68 -> 77
+	59 -> 78
+	60 -> 78
+	61 -> 78
+	62 -> 78
+	63 -> 78
+	64 -> 78
+	65 -> 78
+	66 -> 78
+	67 -> 78
+	68 -> 78
+	subgraph cluster_7 {
+		color=white
+		rank=same
+		label=" (+246)" labeljust=right labelloc=b
+		69 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		70 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		71 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		72 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		73 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		74 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		75 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		76 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		77 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+		78 [color="#3498db" fontcolor="#3498db" shape=circle style=filled]
+	}
+	69 -> 79
+	70 -> 79
+	71 -> 79
+	72 -> 79
+	73 -> 79
+	74 -> 79
+	75 -> 79
+	76 -> 79
+	77 -> 79
+	78 -> 79
+	69 -> 80
+	70 -> 80
+	71 -> 80
+	72 -> 80
+	73 -> 80
+	74 -> 80
+	75 -> 80
+	76 -> 80
+	77 -> 80
+	78 -> 80
+	69 -> 81
+	70 -> 81
+	71 -> 81
+	72 -> 81
+	73 -> 81
+	74 -> 81
+	75 -> 81
+	76 -> 81
+	77 -> 81
+	78 -> 81
+	69 -> 82
+	70 -> 82
+	71 -> 82
+	72 -> 82
+	73 -> 82
+	74 -> 82
+	75 -> 82
+	76 -> 82
+	77 -> 82
+	78 -> 82
+	69 -> 83
+	70 -> 83
+	71 -> 83
+	72 -> 83
+	73 -> 83
+	74 -> 83
+	75 -> 83
+	76 -> 83
+	77 -> 83
+	78 -> 83
+	69 -> 84
+	70 -> 84
+	71 -> 84
+	72 -> 84
+	73 -> 84
+	74 -> 84
+	75 -> 84
+	76 -> 84
+	77 -> 84
+	78 -> 84
+	69 -> 85
+	70 -> 85
+	71 -> 85
+	72 -> 85
+	73 -> 85
+	74 -> 85
+	75 -> 85
+	76 -> 85
+	77 -> 85
+	78 -> 85
+	69 -> 86
+	70 -> 86
+	71 -> 86
+	72 -> 86
+	73 -> 86
+	74 -> 86
+	75 -> 86
+	76 -> 86
+	77 -> 86
+	78 -> 86
+	69 -> 87
+	70 -> 87
+	71 -> 87
+	72 -> 87
+	73 -> 87
+	74 -> 87
+	75 -> 87
+	76 -> 87
+	77 -> 87
+	78 -> 87
 	subgraph cluster_output {
 		node [color="#2ecc71" fontcolor="#2ecc71" shape=circle style=filled]
 		color=white
 		rank=same
 		labeljust=1
-		41 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
-		42 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
-		43 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		79 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		80 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		81 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		82 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		83 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		84 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		85 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		86 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
+		87 [color="#e74c3c" fontcolor="#e74c3c" shape=circle style=filled]
 		label="Output Layer" labelloc=bottom
 	}
 	arrowShape=none
